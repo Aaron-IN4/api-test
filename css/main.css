@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Alumni+Sans+Collegiate+One&display=swap');
+body {
+    background-color: white;
+    background-image: url("")
+}
+
+.special-font {
+    font-family:"Agbalumo", sans-serif;
+}
+.homepage-button {
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+}
+
+.large {
+    font-size: 50px;
+}
+
+.div-2 {
+display: flex;
+justify-content: center;
+align-content: space-between;
+flex-wrap: wrap-reverse;
+}
+.small-and-sneaky {
+    font-size: 5px;
+    
+}
+
+#profile-pic {
+    height: 50px;
+    width: 50px;
+    border-radius: 12px;
+}
+
+.center {
+    text-align: center;
+}
