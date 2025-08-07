@@ -78,6 +78,16 @@ This project demonstrates how to use Python and the YouTube Data API to fetch, a
     plt.show()
     ```
 
+## Project Structure
+- Css
+- Html
+- Images
+- Js
+- node_modules
+- API_Day_3_ipynb
+- Readme.md
+- Testing_API.ipynb
+
 ---
 
 ## Notes
